@@ -102,7 +102,7 @@ The remarks from LLM is compared against remarks given by Surgeons on testing sp
 | **&check;** | **&check;** | **&check;** | **80.94** | **73.83** | **81.31** |
 
 ## Contact
-For more information or any questions, feel free to reach us at anonymouspeerblind@gmail.com
+For more information or any questions, feel free to reach us at spandey8@buffalo.edu
 
 ## License
 MIRACLE is CC-BY-NC 4.0 licensed, as found in the LICENSE file. It is released for academic research / non-commercial use only.
