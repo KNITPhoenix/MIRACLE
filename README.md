@@ -1,5 +1,5 @@
 # [P2P-CV @ WACV 2026] LLM Augmented Intervenable Multimodal Adaptor for Post-operative Complication Prediction in Lung Cancer Surgery
-### Code for anonymous submission in P2P-CV workshop at WACV 2026
+### Code for paper accepted in P2P-CV workshop @ WACV 2026
 
 ## Paper Overview
 <img width="923" height="660" alt="intro_diag" src="https://github.com/user-attachments/assets/6e30f179-2c5a-4412-83d8-7acbbdcd962c" />
@@ -32,10 +32,10 @@ We used PyTorch==2.2.2 for CUDA=12.2
 ## Preparing data and pretrained checkpoints
 
 ### Datasets used in training, validation and testing
-The Proposed dataset, called POC-L is acquired from real lung cancer surgery patients, which went through a surgery at a well reknowned cancer research hospital.
+The Proposed dataset, called POC-L is acquired from real lung cancer surgery patients, which went through a surgery at Roswell Park Comprehensive Cancer Center, Buffalo, NY, USA.
 
 **Dataset statistics:**
-- 3094 patients that have went through Lung cancer surgery from 2009-2023, in well reknowned hospital and cancer research institute
+- 3094 patients that have went through Lung cancer surgery from 2009-2023, in Roswell Park Comprehensive Cancer Center
 - Patients were split into training (2,694; 22.6% complications), validation (200; 47.5%) and testing (200; 53.5%) splits
 - 57% of patients are female and 43% male
 - Dataset is dominated with White ethnicity patients with representations from African-American and Asian populations
