@@ -1,4 +1,4 @@
-# [P2P-CV @ WACV 2026] LLM Augmented Intervenable Multimodal Adaptor for Post-operative Complication Prediction in Lung Cancer Surgery
+# [[P2P-CV @ WACV 2026] LLM Augmented Intervenable Multimodal Adaptor for Post-operative Complication Prediction in Lung Cancer Surgery](https://openaccess.thecvf.com/content/WACV2026W/P2P/html/Pandey_LLM_Augmented_Intervenable_Multimodal_Adaptor_for_Post-operative_Complication_Prediction_in_WACVW_2026_paper.html)
 ### Code for paper accepted in P2P-CV workshop @ WACV 2026
 
 ## Paper Overview
