@@ -106,3 +106,16 @@ For more information or any questions, feel free to reach us at spandey8@buffalo
 
 ## License
 MIRACLE is CC-BY-NC 4.0 licensed, as found in the LICENSE file. It is released for academic research / non-commercial use only.
+
+## Citation
+If you use our method or refer our study in your research, we request you to please cite our work as:
+```
+@InProceedings{Pandey_2026_WACV,
+    author    = {Pandey, Shubham and Jawade, Bhavin and Setlur, Srirangaraj and Govindaraju, Venu and Seastedt, Kenneth},
+    title     = {LLM Augmented Intervenable Multimodal Adaptor for Post-operative Complication Prediction in Lung Cancer Surgery},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
+    month     = {March},
+    year      = {2026},
+    pages     = {434-443}
+}
+```
